@@ -378,6 +378,23 @@ a:hover {
     }
 }
 
+.card_redesPersonal, .card_redesDibujos {
+    background-size: cover;
+    background-position: center;
+}
+
+.enlaces_redes_lista {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.enlaces_redes_lista .card-link {
+    padding-top: 10px;
+}
+
+
 .pie_pagina {
     background-color: #1e1f22;
     padding: 30px 20px;
